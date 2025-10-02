@@ -1,1 +1,21 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj
+.Ruserdata
+.Renv
+renv/library/
+.Rprofile
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep small CSVs only)
+data/*.parquet
+data/*.feather
+data/*.zip
+data/*.gz
+data/*.xlsx
 
