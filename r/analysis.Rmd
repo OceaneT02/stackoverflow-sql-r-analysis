@@ -1,1 +1,12 @@
+---
+title: "StackOverflow Answer Speed — SQL+R Analysis"
+author: "Océane Tchoudi"
+output: html_document
+---
 
+## Setup
+
+```{r}
+library(tidyverse)
+library(lubridate)
+# library(survival); library(survminer) # for next steps later
