@@ -1,1 +1,3 @@
-
+# Replace path with your CSV export from Kaggle
+tag_year <- read.csv("../data/tag_year_metrics.csv")
+glimpse(tag_year)
